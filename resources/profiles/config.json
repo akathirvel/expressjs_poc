@@ -1,0 +1,11 @@
+{
+  "logging": {
+    "fileName": "server.log",
+    "level": "debug",
+    "maxLogSize": 10485760,
+    "backups": 5
+  },
+  "greetings": {
+    "url": "http://example.com"
+  }
+}
